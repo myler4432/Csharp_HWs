@@ -2,4 +2,4 @@
 
 - ФИО: Гусак Максим
 - Группа: БРИЦП262
-- Telegram: нужно указать @nickname
+- Telegram: @hiyfie
